@@ -1,4 +1,4 @@
-# Capstone Project -Flight-cancellation-Prediction-
+# Flight-cancellation-Prediction-
 
 Overview:
 Traditional Flight Cancellation Flaws:  
